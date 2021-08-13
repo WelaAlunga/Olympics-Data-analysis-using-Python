@@ -7,4 +7,5 @@ Next graphed the age distribution of athletes who have competed in the Olympics 
 			
 Looking at gender, there have been 196594 male athletes who have competed since the start of the games vs the 74522 females. It was refreshing to find that female athlete numbers have been gradually increasing since 1980, and can only expect those numbers to keep increasing thanks to the elimination of social norms that hindered females from competing before. 
 			
-Lastly there is a high correlation (0.8) between the weight and height of athletes who have earned medals in the Olympics. Again athletes have to be in the best of shape to perform at their optimal best.  
+Lastly using the pearson correlation coefficient there is a high correlation (0.8) between the weight and height of athletes who have earned medals in the Olympics. Again athletes have to be in the best of shape to perform at their optimal best.  
+
